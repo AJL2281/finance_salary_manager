@@ -69,7 +69,7 @@ You will need [Python 3](https://www.python.org/downloads/) and [Git](https://gi
      ```
 
 5. **Install dependencies:**
-   Install the third-party libraries with the requirements.txt file:
+   * Install the third-party libraries with the requirements.txt file:
    ```
    pip install -r requirements.txt
    ```
