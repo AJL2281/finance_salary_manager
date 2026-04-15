@@ -44,7 +44,7 @@ You will need [Python 3](https://www.python.org/downloads/) and [Git](https://gi
 1. **Clone the repository:**
    * Open your terminal and run:
    ```
-   git clone [https://github.com/](https://github.com/)AJL2281/finance_salary_manager.git
+   git clone https://github.com/AJL2281/finance_salary_manager.git
    ```
 
 2. **Navigate into the project directory:**
