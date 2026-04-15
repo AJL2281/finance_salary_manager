@@ -33,7 +33,7 @@ monetary context. The APP handles quotes with interest rate, automatically conve
 
 ## How to Clone and Run
 
-Intructions to get a copy of the project and run it in your local machine.
+Instructions to get a copy of the project and run it in your local machine.
 
 ### Pre Requirements
 
@@ -42,7 +42,7 @@ You will need [Python 3](https://www.python.org/downloads/) and [Git](https://gi
 ### Installation Steps
 
 1. **Clone the repository:**
-   Open your terminal and run:
+   * Open your terminal and run:
    ```
    git clone [https://github.com/](https://github.com/)AJL2281/finance_salary_manager.git
    ```
